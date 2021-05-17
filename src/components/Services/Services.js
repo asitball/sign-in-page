@@ -13,12 +13,12 @@ const Services = () => {
 },
 {
     icon:<FontAwesomeIcon icon={faGem} />,
-    title: 'fixed Price Project',
+    title: 'Receive on time',
     description:'Standard Single Rooms are designed in open -concept living area and have many facilities.',
 },
 {
     icon:<FontAwesomeIcon icon={faCog} />,
-    title: 'fixed Price Project',
+    title: 'Fast work turnaround',
     description:'Standard Single Rooms are designed in open -concept living area and have many facilities.',
 }
 ];
